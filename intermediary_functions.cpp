@@ -28,7 +28,7 @@ namespace IntermediaryFunctions{
       if (!secondTime && !invalidInput) {
         cout << "      Hey! Al here! I heard you had some questions. By the way, special codes won't work while you're in here: wait until you get to the terminal with Preston, Andy, or SmileBot to use those!" << endl;
       } else if (secondTime && invalidInput){
-        cout << "      That's not a valid input. 1 or 2! Remember, special functions won't work while you're in here." << endl;
+        cout << "      That's not a valid input. 1, 2, or 3! Remember, special functions won't work while you're in here." << endl;
       } else if (secondTime && !invalidInput){
         cout << "      Alright, we're back! Use one of the codes below! (PS: you still can't use special functions. Wait to be in a cipher to do that!)" << endl;
       }
