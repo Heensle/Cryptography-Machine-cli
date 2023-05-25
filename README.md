@@ -3,7 +3,7 @@ Cryptography Machine
 
 An interactive cipher machine on the command line.
 
-Was a school assignment just a little lot bit too far. I was asked to create a code that has 3 cipher functionalities, but once I realized I could give them personalities, I was already too far gone. I've done my best to make the input systems foolproof, and make the code as cohesive as possible. 
+It was a school assignment. I was asked to create a code that has 3 cipher functionalities, but once I realized I could give them personalities, I was already too far gone. I've done my best to make the input systems foolproof, and make the code as cohesive as possible. 
 
 Concepts I learned on this project:
   -.cpp and .h files and how to link them
