@@ -126,7 +126,7 @@ namespace FrequencyAnalysis{
 
 
           
-          cout << endl << "      Beep. Beep. Enter In A Guess, Human. One At A Time, Please. Do It In This Format: 'letter_in_message:letter_guess'. For Example, If I Wanted To Guess That The Letter 'A' Was Really The Letter 'C', I Would Write: 'A:C'. Make Sure They Are Capital. If Nothing Happens After Your Guess, You Probably Something Wrong. I Can't Make Mistakes, But You Can." << endl << endl;
+          cout << endl << "      Beep. Beep. Enter In A Guess, Human. One At A Time, Please. Do It In This Format: 'letter_in_message:letter_guess'. For Example, If I Wanted To Guess That The Letter 'A' Was Really The Letter 'C', I Would Write: 'A:C'. Make Sure They Are Capital. If Nothing Happens After Your Guess, You Probably Did Something Wrong. I Can't Make Mistakes, But You Can." << endl << endl;
           
           string guess;
           getline(cin, guess);
